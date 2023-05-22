@@ -1,0 +1,9 @@
+.test {
+  color: red;
+  border: solid green 2px;
+}
+
+.test2 {
+  color: blue;
+  border: red solid 2px;
+}
